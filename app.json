@@ -5,7 +5,7 @@
     "en": "Danfoss",
     "nl": "Danfoss"
   },
-  "version": "2.1.4",
+  "version": "2.1.5",
   "compatibility": ">=3.0.0",
   "description": {
     "en": "Danfoss products support for Homey",
@@ -124,7 +124,8 @@
           1,
           2,
           3,
-          4
+          4,
+          373
         ],
         "learnmode": {
           "instruction": {

@@ -10,5 +10,8 @@
   },
   "2.1.4": {
     "en": "Added support for device ID 2"
+  },
+  "2.1.5": {
+    "en": "Added support for Device ID 2 and 373"
   }
 }
